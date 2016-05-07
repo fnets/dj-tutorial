@@ -1,1 +1,0 @@
-I am exploring Django.  This is the tutorial project from https://docs.djangoproject.com/en/1.9/intro/tutorial01/
